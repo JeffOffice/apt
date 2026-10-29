@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JeffOffice for Debian and Ubuntu</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 46rem; margin: 2rem auto; padding: 0 1rem; color: #1b1b1b; background: #fff; }
+  pre { background: #f2f2f2; padding: .8rem 1rem; overflow-x: auto; border-radius: 4px; }
+  @media (prefers-color-scheme: dark) { body { color: #e8e8e8; background: #161616; } pre { background: #262626; } a { color: #8ab4f8; } }
+</style>
+</head>
+<body>
+<h1>JeffOffice for Debian and Ubuntu</h1>
+<p>JeffOffice is a free, open-source office suite: JeffPub, JeffDeck, JeffWrite, and JeffCrunch. Add this repository once, and apt installs it and keeps it up to date. The current version is 0.10.0. It needs Ubuntu 22.04 or newer, or Debian 12 or newer, on a 64-bit Intel or AMD computer (amd64). The download is about 320 MB (about 1.2 GB installed). This repository serves the newest version only.</p>
+<h2>Add the repository</h2>
+<pre>sudo apt install wget    # skip this if wget is already installed
+sudo install -d -m 0755 /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/jeffoffice.gpg https://jeffoffice.github.io/apt/jeffoffice.gpg
+sudo wget -O /etc/apt/sources.list.d/jeffoffice.sources https://jeffoffice.github.io/apt/jeffoffice.sources
+sudo apt update</pre>
+<h2>Install JeffOffice</h2>
+<pre>sudo apt install jeffoffice</pre>
+<p>Later versions arrive with your other updates (<code>sudo apt update &amp;&amp; sudo apt upgrade</code>).</p>
+<h2>What the files are</h2>
+<ul>
+<li><a href="jeffoffice.gpg">jeffoffice.gpg</a>: the public key that signs this repository, as a binary keyring (<a href="jeffoffice.asc">jeffoffice.asc</a> is the same key as text). Its fingerprint is <code>141F304F0AD9E63EDB9D444463DAA97BACDF2F2A</code>.</li>
+<li><a href="jeffoffice.sources">jeffoffice.sources</a>: the repository entry. It says that only this key may vouch for these packages.</li>
+</ul>
+<h2>Remove it</h2>
+<pre>sudo apt remove jeffoffice
+sudo rm /etc/apt/sources.list.d/jeffoffice.sources /etc/apt/keyrings/jeffoffice.gpg
+sudo apt update</pre>
+<p><a href="https://github.com/JeffOffice/jeffoffice">JeffOffice on GitHub</a></p>
+</body>
+</html>

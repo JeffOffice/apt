@@ -1,0 +1,21 @@
+Acquire-By-Hash: yes
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 29 Oct 2026 23:33:41 +0000
+Description: JeffOffice, a free, open-source office suite
+Label: JeffOffice
+Origin: JeffOffice
+Suite: stable
+MD5Sum:
+ f29e59d1cb416b375af5971fe8f87cc1             1611 main/binary-amd64/Packages
+ b789acb8802bba66e5ad3efffb0b837b              870 main/binary-amd64/Packages.gz
+SHA1:
+ 453fe6282fa889d686f05869ee7a0b407d9a7e33             1611 main/binary-amd64/Packages
+ 1dc0e8393804d34139ff652d188ff77b0dae7d66              870 main/binary-amd64/Packages.gz
+SHA256:
+ 5f5e1aca4d43b2dcdd2d4257304caab5a93d266da925e212240bb9a61c8edce4             1611 main/binary-amd64/Packages
+ 5664ec67b6626ee8694049f1bee11a39c4b86bb67f7c846f2f48f9211b7f6979              870 main/binary-amd64/Packages.gz
+SHA512:
+ cd895e86bcd93f9ac344a62b562fcb44a9f3bdd9280a712f6d344f1497a8e9c7750a486a1d70ce046a267b0af3efed3f6ebf2d02fbd2234bb89ad8937b99ba07             1611 main/binary-amd64/Packages
+ 583c61cf232e0e8f5af387fa3ecaea370fc2544fbed616d8941649f0d6b3c2fa645a03f10bb97e59b78c5730a130865feb6e265aea4949b1ae5cdd1b3124c8dc              870 main/binary-amd64/Packages.gz
