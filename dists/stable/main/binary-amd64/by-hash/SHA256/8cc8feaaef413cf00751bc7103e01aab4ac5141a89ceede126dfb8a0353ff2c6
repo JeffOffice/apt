@@ -1,26 +1,26 @@
 Package: jeffoffice
 Architecture: amd64
-Version: 0.10.2
+Version: 0.20.0
 Priority: optional
 Section: editors
 Maintainer: JeffOffice LLC <https://github.com/JeffOffice/jeffoffice>
-Installed-Size: 315172
+Installed-Size: 325680
 Provides: jeffpub, jeffpub79
 Depends: libc6 (>= 2.35), libstdc++6, libgl1, libegl1, libfontconfig1, libfreetype6, libdbus-1-3, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libglib2.0-0 | libglib2.0-0t64, libpulse0, libxext6, libxrandr2, libxrender1, libdrm2
 Conflicts: jeffpub, jeffpub79
 Replaces: jeffpub, jeffpub79
-Filename: pool/main/j/jeffoffice/jeffoffice_0.10.2_amd64.deb
-Size: 98717998
-MD5sum: 14b869ef69ed142c339e667995cc4b74
-SHA1: b818fafa046eab23e7ca4e5e3c37c42e8c87e9b7
-SHA256: debea44328d552b48c0fc187d8e2cc032c95a7bebe80fae3add6026969370db4
-SHA512: c5e6a56209e62eb408a868405afd9fe6b405898fc6af4f9e0f4daf1dccad829f561389c7b89119c67fe93730104e91a3c5eca65b2dce97547a9c901040d54dd0
+Filename: pool/main/j/jeffoffice/jeffoffice_0.20.0_amd64.deb
+Size: 102499770
+MD5sum: 24874766509137e400280059a5ded033
+SHA1: 9fed86cc8615527949461473574b0306cde6b474
+SHA256: 29423224702265c6c7d9a8f4c7b56a748f71626760fead664853efcd3364e46f
+SHA512: 51cbfe1a263676feacfb65056e3da505c28858adb8153e457adfe193f91e4393d8e3085af31fb198e15f784b4a450d759b67c112d39a415c4fac72dbe2ceeb73
 Homepage: https://github.com/JeffOffice/jeffoffice
 Description: Free, open-source office suite
  JeffOffice is a free, open-source office suite. JeffPub lays out flyers,
  newsletters, brochures and cards, with templates, mail merge and PDF
  export, and opens .pub files. JeffDeck makes and shows presentations, and
- opens .pptx, .ppt and .odp files. JeffWrite (a preview) writes documents,
- and opens .docx and .doc files. JeffCrunch (a preview) makes spreadsheets,
- and opens .xlsx, .xls, .ods and .csv files.
+ opens .pptx, .ppt and .odp files. JeffWrite (a beta) writes documents,
+ and opens .docx, .doc, .rtf, and .odt files. JeffCrunch (a beta) makes
+ spreadsheets, and opens .xlsx, .xls, .ods, and .csv files.
 

@@ -2,20 +2,20 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 02 Nov 2026 00:11:49 +0000
+Date: Tue, 03 Nov 2026 14:36:32 +0000
 Description: JeffOffice, a free, open-source office suite
 Label: JeffOffice
 Origin: JeffOffice
 Suite: stable
 MD5Sum:
- ad35a694c01bc0cf1c93681b026682a2             1612 main/binary-amd64/Packages
- 0895a5522586f50704ba7207f69ef135              868 main/binary-amd64/Packages.gz
+ e969a835d72dec870a10c1c92d9f558b             1620 main/binary-amd64/Packages
+ e3a0550bf42bb58d7ad38b92bd0288b1              877 main/binary-amd64/Packages.gz
 SHA1:
- 9d402d624502606b54091fdfcae3e677b6760251             1612 main/binary-amd64/Packages
- 292149ebdd993ac612b1f677559563d9e7203c45              868 main/binary-amd64/Packages.gz
+ cb0de73c1a5612e66ad3004f57be22def4467dce             1620 main/binary-amd64/Packages
+ cc154944a1b08d84a0d8f73b7976434d2b08f02e              877 main/binary-amd64/Packages.gz
 SHA256:
- 30299cf7c19e383e80661a8356b22c06b4a57930c0ec43b4ec8a9166825415b4             1612 main/binary-amd64/Packages
- 5e26efe333119df5ab8bfc274dd2f069370a2b6f49dd587c0b75123f76304e79              868 main/binary-amd64/Packages.gz
+ 8cc8feaaef413cf00751bc7103e01aab4ac5141a89ceede126dfb8a0353ff2c6             1620 main/binary-amd64/Packages
+ e7cc8260b71ac59c2d16ed4c8cce3f88d5a97d7e47167746be64549c8737f592              877 main/binary-amd64/Packages.gz
 SHA512:
- 864f3f6fe1e621569f5939d4c9a30ddb65fea2be81cd906e33abca9a673d0660fab7ee1399e4084ba6852a61a1420c945280df78c33ec123f90dc0b2b147526a             1612 main/binary-amd64/Packages
- 685b4b654e6854cc3c22e87794c0fde2f87de41e6b5fd1cdea11043b2deb1cdfdd7b84747a30b1fd66a7ff8e6918bc1a5f6f7bb6bae7ef991c9fa0f3ff5b069a              868 main/binary-amd64/Packages.gz
+ dd4cb75b4fca6b2916b8d878a97b973163a9dd76c601f4ee5883126f1c0db2c63565cd7b8fa781e8fa5235975d34385cb426c24427e1c4df498f06c4a79297c7             1620 main/binary-amd64/Packages
+ 0fc9eacb9f3202612bbddbeaabaec62601396a6c25a98cfd0b8d7104a62920c914d18bb49c0fe08de91fcdb65283f0591ff5c40c9d705cdef472fec0e937926a              877 main/binary-amd64/Packages.gz
