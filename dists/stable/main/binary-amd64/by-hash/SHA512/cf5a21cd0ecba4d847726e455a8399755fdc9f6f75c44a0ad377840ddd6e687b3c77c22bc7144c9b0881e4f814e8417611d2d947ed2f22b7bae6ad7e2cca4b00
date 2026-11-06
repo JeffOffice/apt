@@ -1,20 +1,20 @@
 Package: jeffoffice
 Architecture: amd64
-Version: 0.21.0
+Version: 0.23.0
 Priority: optional
 Section: editors
 Maintainer: JeffOffice LLC <https://github.com/JeffOffice/jeffoffice>
-Installed-Size: 338028
+Installed-Size: 357316
 Provides: jeffpub, jeffpub79
 Depends: libc6 (>= 2.35), libstdc++6, libgl1, libegl1, libfontconfig1, libfreetype6, libdbus-1-3, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libglib2.0-0 | libglib2.0-0t64, libpulse0, libxext6, libxrandr2, libxrender1, libdrm2
 Conflicts: jeffpub, jeffpub79
 Replaces: jeffpub, jeffpub79
-Filename: pool/main/j/jeffoffice/jeffoffice_0.21.0_amd64.deb
-Size: 106923310
-MD5sum: 4614626098f713c3cfff5cbd0660be1a
-SHA1: 42a889ec2a46db9ff11505d057cf0fae709819ef
-SHA256: bceb6a59aea5ef2176c8123de6d29977c07da68b01930994453e96bb0b46e875
-SHA512: b58224d9ae6a59266c23fa34ff6f6adc49207848996c4a7a4a3e4996de67d4b7565ec2d79562a5fcf219eb0c399836dac872cd2a076d855bd18e105c76f842b5
+Filename: pool/main/j/jeffoffice/jeffoffice_0.23.0_amd64.deb
+Size: 111705122
+MD5sum: c7b7db815e36140dca91644dd5002621
+SHA1: ced8247cf97f04fa3e53346f7b5d13e74fbc0b3c
+SHA256: 98577db0e53909aee3f090b0ad8965da66205c78d51d6dab646e248b758d6450
+SHA512: 0da68205a654b8e7871d2e08680ea30979e17adb623ff46d1f18fdea57370cbcf4ffe33d399e60b097af0a57c46cfc5165c43491c07de27528c3a502c1b0e5aa
 Homepage: https://github.com/JeffOffice/jeffoffice
 Description: Free, open-source office suite
  JeffOffice is a free, open-source office suite. JeffPub lays out flyers,
