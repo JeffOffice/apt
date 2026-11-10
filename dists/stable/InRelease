@@ -5,36 +5,36 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 09 Nov 2026 03:50:31 +0000
+Date: Tue, 10 Nov 2026 06:43:06 +0000
 Description: JeffOffice, a free, open-source office suite
 Label: JeffOffice
 Origin: JeffOffice
 Suite: stable
 MD5Sum:
- 5399145ac1a9c6458041f046cee53607             1620 main/binary-amd64/Packages
- c4617951ca705350ea85352ee321f08a              875 main/binary-amd64/Packages.gz
+ 5b831479f33e632f2e3b8d97336821bf             1620 main/binary-amd64/Packages
+ d75708a237c1207bfb7b2a522b32f3f2              874 main/binary-amd64/Packages.gz
 SHA1:
- 590a0e81f57cda952b9db01da254aff046ec8714             1620 main/binary-amd64/Packages
- 8d55095a6ac2410ce3f0d9c58431472009f660a1              875 main/binary-amd64/Packages.gz
+ 31b8c190e2e55e88c5e8122df1ab35108546883d             1620 main/binary-amd64/Packages
+ 18b921e09debf07f5544983a433dc99d5d23e1f9              874 main/binary-amd64/Packages.gz
 SHA256:
- 70167672e9bd899bd2e10b0498d80e3a5298c8d8df5ac48bea97033d4c41340f             1620 main/binary-amd64/Packages
- 1a877cdb221b5154ac8ed1a5e8fe830f0c3cd9cb326164b2f9b444aba6c97cdd              875 main/binary-amd64/Packages.gz
+ a6701d70c8dbf8f2d244d392186d436c4ee649b014d28b4004b69a51de3c4109             1620 main/binary-amd64/Packages
+ 7c9810b488942873f172dde588e61b0142872f08182107d30e458771c91352cd              874 main/binary-amd64/Packages.gz
 SHA512:
- 919e1fa210a937952de37bc1ebfda17a16e1700599f23576ba2f37c28a4578f7418436e3ca2a96ff88ace20b1e959d5addfe78519f177211e8e4dcbfcd9d195d             1620 main/binary-amd64/Packages
- 0f94e61fce420cc8ee8bd4c4a03a344ef39a63a200c67bf788ac6b39e21f5577b884c41c6db2c10e88812db18947708a0d6cb762d6a22ba305056f5ce409ee01              875 main/binary-amd64/Packages.gz
+ 58bdd07fffeafa93df887b270aac62c60057b80c064a07edeed71a8ca8d0a2a29ac95237aae04ad8364ee6c5adddc6d718f7a955650b61ee694cc2f256c2cbf6             1620 main/binary-amd64/Packages
+ 80535bc689a8024c5fa157474ec41b1d50339f406048680ebab4a27a3fb152df33529c42dbcaec97fa05357d4be805bc2b37efa7f7403a8943e01d038a08d5d4              874 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEFB8wTwrZ5j7bnUREY9qpe6zfLyoFAmrxQwcACgkQY9qpe6zf
-Lyp0DQ/6AlFRipmO8KvJp7qa7M875lLIPrD7Ddp3IYp94TumhcWhXRnHyY7N59eT
-vfzHRo7MPGScfyXCbOUGt4mVs3FsWDnZ171BOVAtlLDtU7ka41XgKVGfpvXjCpdc
-54H38q18lL8cMo6ltS5z3NDcSP9rTsdqtYk73UabkgnbhU/HEkeKPA+bqPMQf1Fd
-9AuMfAqqzeiAnHORfOL2U+PZHXsB6Lt07EN8R9J3IsfYDehSHcI2PqNlLirmU8Uv
-Lus636z4N7/a0TK0ClNZqV4M8MR2GWll+rjzTVAN1RMw1aNY7op7Efv66+Cri1xI
-ZUOwyJEd1YDDn55N+9X6oOvobs0VqLg3doEtKsLBh1XnR6VTn8IWNIbcg4FDE3fd
-jElUrnUuaF0r3wtr9JUPcyPnFz3QWws9y66A54lAttiiW7TuX7DmV4bWhsMV/0Lk
-ui9y/QmkonNg8fAAZf71YNHYV6MMwkrwm6lu89wq5jJ38PjR/4V6n17lw9StBkTa
-rK/pe6qBPMzHmS7p6AZ5zi8jVcXmONxH4T3HAJx1cbsEcm+4c+jsImhWaN8O84BC
-NDXLyOzTVxcxUoCJVN6LE6+c/nbGfLRGsdrPSyo8WPeR7M8A6fH8vFBDnX5f5EjD
-pZVgjcvdqjrD3ZlIXOdqa9yN0thMLm7Ae0A573uhbVbq6V8iDZU=
-=JL0c
+iQIzBAEBCgAdFiEEFB8wTwrZ5j7bnUREY9qpe6zfLyoFAmryvPoACgkQY9qpe6zf
+LyrBGw/+LjHqCtTLsjjgurzfhkgIc38e2W3K+G77E+PpaAByEBIsIxkR9s+XZ+kT
+tcPYxSshAyBN6+Dgk1ChFUx/tDI/BRKZBynGx0womig4nBFQAFrKp4hi2H3+cUi2
+/h3dXJyKx/MO9jSM5zUoUWZ0yWgYA/+jwMvkHCzhidbR5v+FzRMGSjjRgz1C/mhJ
+R8fJ+1Pl4CNcMsq50ngQaiZqCv5vXlUVT9ozszitdv7BXqhwpo5oKe5yv6PrHcx6
+vjlpLSEY9ibq1RjZ3/A8R7/ZIBDGMavw5zTXWSDQsEw7/2WXCjSjCS/kAs/VmRbM
+NSgVrSe8zejvuLHN9sBg/E3lzKdAxubKjUlNspiFlUAHENWLhE3HzZ83DnDoEdwd
+JPmNszjPl/JryOcjn5Sz/S3b5GDXzJdfp1/HFo47QZkMZWbqSMJff6LxMyqJyZYQ
+AqxemtXfTTfde7Zed0TwSl6BPRSzZOBxLVhAGg2mugZ74o+TwBxmaE4Md2Svhizm
+n/lmlo+3g47ZBI6rwMgiy2oKxHN3yhpT9eE6l3lvuCP2zZPSy7i9BxmqRfSBI0Fk
+RH8CgKOlA4za2YBNhJGx6KGvOlIFpRj67lQ9ufv26TKcp/9Fn/xzYQnxuCS10Xj0
+0qjuQ4PY+N1afWQLAZG4wTGMuTkrOqSmOHvKceGc6i06T7wdidQ=
+=Hv0S
 -----END PGP SIGNATURE-----
