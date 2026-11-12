@@ -1,20 +1,20 @@
 Package: jeffoffice
 Architecture: amd64
-Version: 0.25.1
+Version: 0.26.0
 Priority: optional
 Section: editors
 Maintainer: JeffOffice LLC <https://github.com/JeffOffice/jeffoffice>
-Installed-Size: 373460
+Installed-Size: 387140
 Provides: jeffpub, jeffpub79
-Depends: libc6 (>= 2.35), libstdc++6, libgl1, libegl1, libfontconfig1, libfreetype6, libdbus-1-3, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libglib2.0-0 | libglib2.0-0t64, libpulse0, libxext6, libxrandr2, libxrender1, libdrm2
+Depends: libc6 (>= 2.35), ca-certificates, libstdc++6, libgl1, libegl1, libfontconfig1, libfreetype6, libdbus-1-3, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libglib2.0-0 | libglib2.0-0t64, libpulse0, libxext6, libxrandr2, libxrender1, libdrm2
 Conflicts: jeffpub, jeffpub79
 Replaces: jeffpub, jeffpub79
-Filename: pool/main/j/jeffoffice/jeffoffice_0.25.1_amd64.deb
-Size: 114186972
-MD5sum: 87a145552769277a1a045446591e73ce
-SHA1: c74fddd8bfe5cbdfe3bbd69006dba27c40eafc83
-SHA256: ae8181f11e894cc2953780183f1de5a92affbca53fe90cc296bde27d9247f0e3
-SHA512: bf40f1ec0949538f2818963d2ff30f19832b1b965fc3632e24031cbc66ae254f9fbeee3551d290db73729b5e23a6393647f106429abde625f25c2671e2c05934
+Filename: pool/main/j/jeffoffice/jeffoffice_0.26.0_amd64.deb
+Size: 117683292
+MD5sum: 29e4fda8488eb56fe2b7025260daf81a
+SHA1: 70869ebb87a037da1bd23fdab3bb3bf971d8e5e3
+SHA256: 663c6aa12a1e73ef9931309da71cfac7cac04a27b382f507d259036e3bc682da
+SHA512: bd09835aa54189ad7b185fe385114a8c329e6553fbd3338f555c3dc74fa6ba4f6abda9a20844be47c0cc9772e8323f1afb1230273c675b3514fdb2e15e0bd020
 Homepage: https://github.com/JeffOffice/jeffoffice
 Description: Free, open-source office suite
  JeffOffice is a free, open-source office suite. JeffPub lays out flyers,
