@@ -5,7 +5,7 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 13 Nov 2026 16:25:52 +0000
+Date: Sat, 14 Nov 2026 01:53:01 +0000
 Description: JeffOffice, a free, open-source office suite
 Label: JeffOffice
 Origin: JeffOffice
@@ -24,17 +24,17 @@ SHA512:
  b54e8ffc52fd298296da5245c786dac74ccadf23a752a7a26e877db08814853663f77e8950541a0e3fb81e9131c7a2af19dc2462c6cd165baa93ea0681ee9ead              885 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEFB8wTwrZ5j7bnUREY9qpe6zfLyoFAmr3OhAACgkQY9qpe6zf
-LyqM6g//cZnHg8v9Oamtf1aXxafRzPI4h8x/9S+M6gKRDgD8Z3x9KdV6sAZGDOHx
-LDAsPe8BZ/3SLnG/grGSoq1zoKkEcwk/IxNZgHExHxDwoqR5DBlCXhuJ8bfH+9gD
-jif6tJ78tThOKhnbg17M0AXEEr1HtYVzTv+S15CCnAUC8qG0ZjyvBIUexbvtXX8s
-FGgIw28zVo7Yhu47MbUdp7XM+q4TnRyA+mx7croEviHk2pWdU3ZFecPd7hia+OJ9
-0LdY7bRaQxyvclYjZAEjMQxenc2YcBSdmS5WFeZRcTI56rPcdVcpKLYD4dvwDJhx
-NYpxqJSPsqwpLTfjLMOB745qPntMPIA9PREdKMU93sg9Y6d36kCa+csJV09HHwgc
-KsOyJBmf+TtBgcpe9x+63n3yGF8x5IAsPQoJVpzCQ2d7gXzh4qbfunt/4+5hiBHF
-W+M2Eu83lOs6IMrWelCU+owA7yPtixMECAmtwEsabSHMsZA3tzE3LnPJnmy7PwQa
-MVQ02nf1m+cXAorCpNHo41IqrdhklFGrb164E0tyCJgeaBd1nU2lBNB6/i0sp3nh
-fUyQ78rUl7lP2ATZ3lRy5/Wa5e6KgXyTxwE1sWbwGKbAJqi2isFdr6NXN1n8BdWW
-gw19jtcSrmO/fJ60z4MVl3YMNLpy/qFxiSQKzD2gjBEyi9+ZIOk=
-=K5BN
+iQIzBAEBCgAdFiEEFB8wTwrZ5j7bnUREY9qpe6zfLyoFAmr3vv0ACgkQY9qpe6zf
+LyrTPw//UEakWEDzabk4VotAAj3tdmTWpqdkF62nflNaQiElkDMPu3YUOsjOK/LJ
+yywwlXd57GLkdgnce6Ovdb8Xvp3eJvVK+xOWPrvxtOGUNegJ4dwoueIs9y8U0H72
+zkEaCOvNu9cCSGMwhObRVCpQqOsb3lc3CuWtcPSL6Bge7qTQKEQFjmDVDWIeQCkV
+PZ2rel3WfwGBQeRUF2l+J+yBvnynjeXArpcMtxloubLEToqOVP5HxMoZzyy0HICs
+Os4xF5sspKaY8Eg1DT2JGhUcNnIzQk3yNT9KBAr8UQ2WZAEm+v9OP+PD9gyTR5d+
+dm5XRmCymB4oI20GrWWK/SnXkUmmtsC7xrP83wB5j3HTLpkLG99zCxnS9K+XzMS6
+zGjeJTrZEJKNE3bC2tNmGP0YOgEkJVb2ox/34Bl7bEPW3sJkKcSep3FoO6m4yb2g
+ARwewvW3Ir/SuAJf/5Jdsxo1SvS0f3o28x1aLS4CW+8bI4DfzKCmRFGaXp9YivJX
+3gYT019wtZx7//8qDF/ngbT9TCFqHQIfLOv7fumBUn5K0Cnh+UrvcXQhXBgI57QZ
+IG8mh6ujtuiSTl83gtARh36h/GLqNuhNeneDk92l4+K99riTiigRlaH1ypGfRYuf
+vSRcvZBUe1W2RlmIqC5JldqGT53SahQhf3qeY4xTaz943qi9qlg=
+=O+z3
 -----END PGP SIGNATURE-----
