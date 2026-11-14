@@ -1,0 +1,26 @@
+Package: jeffoffice
+Architecture: amd64
+Version: 0.28.0
+Priority: optional
+Section: editors
+Maintainer: JeffOffice LLC <https://github.com/JeffOffice/jeffoffice>
+Installed-Size: 304704
+Provides: jeffpub, jeffpub79
+Depends: libc6 (>= 2.35), ca-certificates, libstdc++6, libgl1, libegl1, libfontconfig1, libfreetype6, libdbus-1-3, libxkbcommon0, libxkbcommon-x11-0, libx11-6, libx11-xcb1, libxcb1, libxcb-cursor0, libxcb-icccm4, libxcb-image0, libxcb-keysyms1, libxcb-randr0, libxcb-render-util0, libxcb-shape0, libxcb-xinerama0, libxcb-xkb1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libglib2.0-0 | libglib2.0-0t64, libpulse0, libxext6, libxrandr2, libxrender1, libdrm2
+Conflicts: jeffpub, jeffpub79
+Replaces: jeffpub, jeffpub79
+Filename: pool/main/j/jeffoffice/jeffoffice_0.28.0_amd64.deb
+Size: 95724848
+MD5sum: f943d6b26c84d6e1d510fdf54ea2742a
+SHA1: c77912fd8f960ed1038e8f48f1661c3790bcf7f0
+SHA256: 3769e56180022da17af8a123cfa66fd113e83db2b7263494b26c72c330b7a2ae
+SHA512: c6b65cc576528e420234aeaef6be5ed45663fdc7cf110b319d0bc58b9cd0e0a439c4d04126759303b46c2499e63698cc2bff3956e0c0a0b4958e9c416f591953
+Homepage: https://github.com/JeffOffice/jeffoffice
+Description: Free, open-source office suite
+ JeffOffice is a free, open-source office suite. JeffPub lays out flyers,
+ newsletters, brochures and cards, with templates, mail merge and PDF
+ export, and opens .pub files. JeffDeck makes and shows presentations, and
+ opens .pptx, .ppt and .odp files. JeffWrite (a beta) writes documents,
+ and opens .docx, .doc, .rtf, and .odt files. JeffCrunch (a beta) makes
+ spreadsheets, and opens .xlsx, .xls, .ods, and .csv files.
+
